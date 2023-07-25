@@ -1,16 +1,35 @@
-### Hi there 👋
+## Ciao! 👋 Sono Andrea
 
-<!--
-**AndreaGhidara/AndreaGhidara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Appassionato Junior Web Developer con una passione sfrenata per il mondo del web e la sua capacità di creare esperienze coinvolgenti. <br>
+La mia missione è rendere il web un posto migliore, una riga di codice alla volta.
 
-Here are some ideas to get you started:
+💻 Attualmente mi diverto a lavorare con:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,scss,bootstrap,tailwind,vue,php,laravel,figma,postman&perline=8" />
+  </a>
+</p>
+
+
+📚 Sempre alla ricerca di nuove sfide e voglio migliorare costantemente le mie competenze nel mondo dello sviluppo web. Amo il processo di apprendimento e sono pronto ad abbracciare nuove tecnologie e metodologie.
+<hr>
+🌱 Cerco attivamente l'opportunità di lavorare su progetti stimolanti e collaborare con una squadra appassionata, dove posso crescere professionalmente e contribuire al successo dell'azienda.
+<hr>
+📫 Se vuoi collaborare o parlare di progetti interessanti, non esitare a contattarmi! Sarà un piacere conoscere nuovi punti di vista.
+<br>
+<br>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-ghidara/)
+
+<br>
+
+## 📊 GitHub statistic:
+<br>
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=andreaghidara&count_private=true&show_icons=true&theme=dark&hide_border=false) <br>
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=andreaghidara&hide_border=false&theme=dark) <br>
+
+
+---
+
+Let's code together and make the web awesome! 🚀
