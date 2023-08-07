@@ -26,7 +26,8 @@ La mia missione è rendere il web un posto migliore, una riga di codice alla vol
 
 ## 📊 GitHub statistic:
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefaniaSperani&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=andreaghidara&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=andreaghidara&count_private=true&show_icons=true&theme=dark&hide_border=false) <br>
