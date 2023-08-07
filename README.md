@@ -18,11 +18,6 @@ La mia missione è rendere il web un posto migliore, una riga di codice alla vol
 <hr>
 📫 Se vuoi collaborare o parlare di progetti interessanti, non esitare a contattarmi! Sarà un piacere conoscere nuovi punti di vista.
 <br>
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-ghidara/)
-
-<br>
 
 ## 📊 GitHub statistic:
 <br>
