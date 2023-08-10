@@ -19,15 +19,6 @@ La mia missione è rendere il web un posto migliore, una riga di codice alla vol
 📫 Se vuoi collaborare o parlare di progetti interessanti, non esitare a contattarmi! Sarà un piacere conoscere nuovi punti di vista.
 <br>
 
-## 📊 GitHub statistic:
-<br>
-
-<br>
-
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=andreaghidara&count_private=true&show_icons=true&theme=dark&hide_border=false) <br>
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=andreaghidara&hide_border=false&theme=dark) <br>
-
-
 ---
 
 Let's code together and make the web awesome! 🚀
