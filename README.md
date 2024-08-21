@@ -7,7 +7,7 @@ La mia missione è rendere il web un posto migliore, una riga di codice alla vol
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,vue,react,next,tailwind,nodejs,express,mongodb,&perline=10" />
+    <img src="https://skillicons.dev/icons?i=ts,react,next,tailwind,nodejs,express,mongodb,&perline=10" />
   </a>
 </p>
 
