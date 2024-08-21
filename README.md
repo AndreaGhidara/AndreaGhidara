@@ -1,6 +1,6 @@
 ## Ciao! 👋 Sono Andrea
 
-Appassionato Junior Web Developer con una passione sfrenata per il mondo del web e la sua capacità di creare esperienze coinvolgenti. <br>
+Appassionato Front-End Developer con una passione sfrenata per il mondo del web e la sua capacità di creare esperienze coinvolgenti. <br>
 La mia missione è rendere il web un posto migliore, una riga di codice alla volta.
 
 💻 Attualmente mi diverto a lavorare con:
