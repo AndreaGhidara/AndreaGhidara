@@ -1,6 +1,6 @@
 ## Ciao! 👋 Sono Andrea
 
-Appassionato Front-End Developer con una passione sfrenata per il mondo del web e la sua capacità di creare esperienze coinvolgenti. <br>
+Appassionato Front-End Developer con una passione per il mondo del web e la sua capacità di creare esperienze coinvolgenti. <br>
 La mia missione è rendere il web un posto migliore, una riga di codice alla volta.
 
 💻 Attualmente mi diverto a lavorare con:
@@ -12,7 +12,7 @@ La mia missione è rendere il web un posto migliore, una riga di codice alla vol
 </p>
 
 
-📚 Sempre alla ricerca di nuove sfide e voglio migliorare costantemente le mie competenze nel mondo dello sviluppo web. Amo il processo di apprendimento e sono pronto ad abbracciare nuove tecnologie e metodologie.
+📚 Sempre alla ricerca di nuove sfide e voglio migliorare costantemente le mie competenze nel mondo dello sviluppo web.
 <hr>
 🌱 Cerco attivamente l'opportunità di lavorare su progetti stimolanti e collaborare con una squadra appassionata, dove posso crescere professionalmente e contribuire al successo dell'azienda.
 <hr>
