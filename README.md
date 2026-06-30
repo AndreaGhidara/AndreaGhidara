@@ -31,6 +31,6 @@ Sei alla ricerca di uno sviluppatore freelance per lanciare un MVP, potenziare u
 
 ### ℹ Contatti
 <p align="left">
-  🚀 <b><a href="https://a-ghidara-dev.vercel.app/it">Visita il mio sito web</a></b><br /><br />
+  ⚡ <b><a href="https://a-ghidara-dev.vercel.app/it">Visita il mio sito web</a></b><br /><br />
     🔵 <a href="https://www.linkedin.com/in/andrea-ghidara/">LinkedIn</a>
 </p>
