@@ -1,6 +1,6 @@
 # Ciao, sono Andrea! 🚀
 
-### 💻 Sviluppatore Full Stack Freelance
+### 💻 Sviluppatore Full Stack
 Trasformo idee complesse in prodotti digitali, performanti e scalabili. 
 Unisco l' attenzione all'esperienza utente (Frontend) a un'architettura logica pulita e strutturata (Backend), aiutando aziende e startup a lanciare e far crescere i propri progetti.
 
