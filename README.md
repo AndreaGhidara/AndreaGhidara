@@ -15,6 +15,8 @@ Ho scelto un ecosistema moderno e focalizzato sull'efficienza per garantire temp
   </a>
 </p>
 
+---
+
 ### 🔋Approccio e Valore Professionale
 Non mi limito a scrivere codice: analizzo i requisiti tecnici e di business per trovare l'approccio migliore per ogni singola architettura. 
 
