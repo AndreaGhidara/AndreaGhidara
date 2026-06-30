@@ -1,41 +1,34 @@
-# Ciao, sono Andrea! 👊
+# Ciao, sono Andrea! 🚀
 
-### 🛠️ Costruisco cose (e ne rompo altre per capire meglio)
-
-Fin da piccolo, il mio dilemma esistenziale era: *"Ma come funziona?"*. 
-Ho passato l'infanzia a smontare giochi e dispositivi elettronici per capirne il funzionamento. Oggi porto quella stessa curiosità nel tech.
+### 💻 Sviluppatore Full Stack Freelance
+Trasformo idee complesse in prodotti digitali, performanti e scalabili. 
+Unisco l' attenzione all'esperienza utente (Frontend) a un'architettura logica pulita e strutturata (Backend), aiutando aziende e startup a lanciare e far crescere i propri progetti.
 
 ---
 
-### 🏠 Il mio ecosistema di riferimento
-Anche se mi piace esplorare ogni novità, ho scelto **React** e **Next.js** come mio punto di partenza principale. Mi piace la solidità di questo stack perché mi permette di trasformare le idee in prodotti pronti all'uso.
+### 🛠️ Il mio Stack Tecnologico
+Ho scelto un ecosistema moderno e focalizzato sull'efficienza per garantire tempi di sviluppo rapidi senza scendere a compromessi sulla qualità.
 
-**Gli strumenti che uso quotidianamente:**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,next,tailwind,express,supabase&perline=10" />
+    <img src="https://skillicons.dev/icons?i=ts,react,next,tailwind,express,postgresql,supabase,&perline=10" />
   </a>
 </p>
 
+###🔋 Approccio e Valore Professionale
+Non mi limito a scrivere codice: analizzo i requisiti tecnici e di business per trovare l'approccio migliore per ogni singola architettura. 
+
+* **🎯 Orientamento al risultato:** Soluzioni pronte per la produzione, con un forte focus sulla manutenibilità.
+* **🤝 Collaborazione:** Lavoro a stretto contatto con il team e i professionisti del settore.
+* **💡 Problem Solving:** Affronto ogni sfida cercando la soluzione migliore e più efficiente per lo specifico caso d'uso.
+
 ---
 
-### 🔋 "Smanettone" per vocazione
-Non mi accontento di far funzionare le cose: mi piace sperimentare, testare nuovi strumenti e capire qual è l'approccio migliore per ogni architettura. Sto costruendo il mio percorso professionale con l'obiettivo di crescere costantemente e contribuire a progetti che abbiano un impatto reale.
-
-- 🔭 **Cosa cerco:** Opportunità per mettermi in gioco, costruire nuovi sistemi, imparare e collaborare con persone che condividono la mia stessa passione.
-- 💡 **Mentalità:** Umiltà nel chiedere, determinazione nel risolvere.
-
----
-
-### 🤝 Facciamo due chiacchiere?
-Che sia per parlare di codice o di tech in generale, mi troverai sempre disponibile. Ogni confronto è un'ottima occasione per imparare qualcosa di nuovo.
+### 📩 Parliamo del tuo prossimo progetto?
+Sei alla ricerca di uno sviluppatore freelance per lanciare un MVP, potenziare una piattaforma esistente o collaborare a un progetto innovativo? Parliamone.
 
 ### ℹ Contatti
 <p align="left">
   🚀 <b><a href="https://a-ghidara-dev.vercel.app/it">Visita il mio sito web</a></b><br /><br />
     🔵 <a href="https://www.linkedin.com/in/andrea-ghidara/">LinkedIn</a>
 </p>
-
-
----
-*"Sempre alla ricerca del prossimo 'perché'."* 🚀
