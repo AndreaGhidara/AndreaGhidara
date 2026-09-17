@@ -70,7 +70,7 @@ La scrittura del codice è solo l'ultimo tassello. Quando sviluppo un'applicazio
 
 [![Sito Web](https://img.shields.io/badge/Sito_Web-andreaghidara.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://a-ghidara-dev.vercel.app/it)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrea_Ghidara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-ghidara/)
-[![Email](https://img.shields.io/badge/Email-ghidara.andrea.99%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghidara.andrea.99@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ghidara.andrea.99%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrea.ghidara.dev@gmail.com)
 
 <br>
 
