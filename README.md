@@ -2,7 +2,7 @@
 
 # Ciao, sono Andrea Ghidara 👋
 
-**Sviluppatore Full-Stack** basato a Torino  
+**Sviluppatore Full-Stack** con base a Torino  
 
 Specializzato nel trasformare processi ripetitivi in flussi automatizzati ed efficienti. Ho un forte orientamento ai dettagli e mi appassiona comprendere a fondo le logiche di business: considero ogni progetto come se fosse il mio, studiando il contesto per ottimizzare costi, velocità e processi strategici.  
 Aiuto startup e aziende a validare idee di mercato e far crescere i propri prodotti digitali.
